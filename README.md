@@ -6,12 +6,12 @@
 ###provide the sub,body,receiver mail id to send the mail
 
 ##install the PyDictionary---)pip install smtplib
-###Exicute the python modules --) ex:-- py dictionary_Search.py
-### give the input as word
+##Exicute the python modules --) ex:-- py dictionary_Search.py
+##give the input as word
 
 ##install the PyDictionary---)pip install geopy
 ###Exicute the python modules --) ex:-- py citi_distance.py
-### give the lattitude and longitude in input
+##give the lattitude and longitude in input
 
 
 
