@@ -1,0 +1,7 @@
+install below libraries
+
+1)pip install smtplib
+2)pip install PyDictionary
+3)pip install geopy
+
+python version---3.8.5
